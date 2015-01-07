@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<uexplugins>
+    <plugin uexName="uexXmlHttpMgr" version="3.0.3" build = "3">
+        <info>3:uexXmlHttpMgr修改PUT请求,DELETE请求</info>
+        <build>2:修改上药项目的bug，去掉对https的判断</build>
+        <build>1:修改上药项目的bug，去掉对url特殊处理的代码</build>
+        <build>0:跨域异步请求功能插件</build>
+	</plugin>
+</uexplugins>
